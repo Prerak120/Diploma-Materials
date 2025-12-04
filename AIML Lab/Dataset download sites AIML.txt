@@ -1,0 +1,23 @@
+Dataset download sites :-
+Kaggle data set   
+
+UCI machine learning
+
+
+Data set aws
+
+
+Google dataset searc engine
+
+
+Microsoft dataset
+
+
+Awesome public dataset collection
+
+
+Goverment dataset  
+
+Computer version dataset
+
+Skykit learn dataset

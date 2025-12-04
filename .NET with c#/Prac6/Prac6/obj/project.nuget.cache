@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlHGTvsD3/s=",
+  "success": true,
+  "projectFilePath": "C:\\Prerak\\PARUL\\Sem 6\\.NET with c#\\Prac6\\Prac6\\Prac6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nisarg\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.11\\microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
+    "C:\\Users\\Nisarg\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "C:\\Users\\Nisarg\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.11\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

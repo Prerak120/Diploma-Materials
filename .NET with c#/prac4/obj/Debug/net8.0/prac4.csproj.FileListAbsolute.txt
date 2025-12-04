@@ -1,0 +1,4 @@
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac4\obj\Debug\net8.0\prac4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac4\obj\Debug\net8.0\prac4.AssemblyInfoInputs.cache
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac4\obj\Debug\net8.0\prac4.AssemblyInfo.cs
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac4\obj\Debug\net8.0\prac4.csproj.CoreCompileInputs.cache

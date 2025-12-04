@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Prac7\Prac7\obj\Debug\net8.0\Prac7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Prac7\Prac7\obj\Debug\net8.0\Prac7.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Prac7\Prac7\obj\Debug\net8.0\Prac7.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Prac7\Prac7\obj\Debug\net8.0\Prac7.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Prac7\Prac7\bin\Debug\net8.0\Prac7.exe
+C:\Users\DELL\source\repos\Prac7\Prac7\bin\Debug\net8.0\Prac7.deps.json
+C:\Users\DELL\source\repos\Prac7\Prac7\bin\Debug\net8.0\Prac7.runtimeconfig.json
+C:\Users\DELL\source\repos\Prac7\Prac7\bin\Debug\net8.0\Prac7.dll
+C:\Users\DELL\source\repos\Prac7\Prac7\bin\Debug\net8.0\Prac7.pdb
+C:\Users\DELL\source\repos\Prac7\Prac7\obj\Debug\net8.0\Prac7.dll
+C:\Users\DELL\source\repos\Prac7\Prac7\obj\Debug\net8.0\refint\Prac7.dll
+C:\Users\DELL\source\repos\Prac7\Prac7\obj\Debug\net8.0\Prac7.pdb
+C:\Users\DELL\source\repos\Prac7\Prac7\obj\Debug\net8.0\Prac7.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Prac7\Prac7\obj\Debug\net8.0\ref\Prac7.dll

@@ -1,0 +1,14 @@
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\bin\Debug\net8.0\prac 2.exe
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\bin\Debug\net8.0\prac 2.deps.json
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\bin\Debug\net8.0\prac 2.runtimeconfig.json
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\bin\Debug\net8.0\prac 2.dll
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\bin\Debug\net8.0\prac 2.pdb
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\obj\Debug\net8.0\prac 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\obj\Debug\net8.0\prac 2.AssemblyInfoInputs.cache
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\obj\Debug\net8.0\prac 2.AssemblyInfo.cs
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\obj\Debug\net8.0\prac 2.csproj.CoreCompileInputs.cache
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\obj\Debug\net8.0\prac 2.dll
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\obj\Debug\net8.0\refint\prac 2.dll
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\obj\Debug\net8.0\prac 2.pdb
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\obj\Debug\net8.0\prac 2.genruntimeconfig.cache
+C:\Prerak\PARUL\Sem 6\.NET with c#\prac 2\obj\Debug\net8.0\ref\prac 2.dll

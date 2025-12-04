@@ -1,0 +1,28 @@
+C:\Users\DELL\source\repos\Prac5\Prac5\obj\Debug\net8.0\Prac5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Prac5\Prac5\obj\Debug\net8.0\Prac5.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Prac5\Prac5\obj\Debug\net8.0\Prac5.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Prac5\Prac5\obj\Debug\net8.0\Prac5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Prac5\Prac5\bin\Debug\net8.0\Prac5.exe
+C:\Users\DELL\source\repos\Prac5\Prac5\bin\Debug\net8.0\Prac5.deps.json
+C:\Users\DELL\source\repos\Prac5\Prac5\bin\Debug\net8.0\Prac5.runtimeconfig.json
+C:\Users\DELL\source\repos\Prac5\Prac5\bin\Debug\net8.0\Prac5.dll
+C:\Users\DELL\source\repos\Prac5\Prac5\bin\Debug\net8.0\Prac5.pdb
+C:\Users\DELL\source\repos\Prac5\Prac5\obj\Debug\net8.0\Prac5.dll
+C:\Users\DELL\source\repos\Prac5\Prac5\obj\Debug\net8.0\refint\Prac5.dll
+C:\Users\DELL\source\repos\Prac5\Prac5\obj\Debug\net8.0\Prac5.pdb
+C:\Users\DELL\source\repos\Prac5\Prac5\obj\Debug\net8.0\Prac5.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Prac5\Prac5\obj\Debug\net8.0\ref\Prac5.dll
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\bin\Debug\net8.0\Prac5.exe
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\bin\Debug\net8.0\Prac5.deps.json
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\bin\Debug\net8.0\Prac5.runtimeconfig.json
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\bin\Debug\net8.0\Prac5.dll
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\bin\Debug\net8.0\Prac5.pdb
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\obj\Debug\net8.0\Prac5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\obj\Debug\net8.0\Prac5.AssemblyInfoInputs.cache
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\obj\Debug\net8.0\Prac5.AssemblyInfo.cs
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\obj\Debug\net8.0\Prac5.csproj.CoreCompileInputs.cache
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\obj\Debug\net8.0\Prac5.dll
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\obj\Debug\net8.0\refint\Prac5.dll
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\obj\Debug\net8.0\Prac5.pdb
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\obj\Debug\net8.0\Prac5.genruntimeconfig.cache
+C:\Prerak\PARUL\Sem 6\.NET with c#\Prac5\Prac5\obj\Debug\net8.0\ref\Prac5.dll
